@@ -1,8 +1,8 @@
-#consulted w3schools,
+#consulted w3schools
 
 import re
-#creating the function to find names
 
+#creating the function to find names
 def find_date(line):
   
   pattern = r'(?:Mrs\.|Mr\.|Dr\.|Ms\.) ([A-Z][a-z]+)'
